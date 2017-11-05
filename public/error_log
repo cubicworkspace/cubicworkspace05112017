@@ -1,0 +1,4 @@
+[27-Oct-2017 08:40:39 UTC] PHP Fatal error:  Class 'App\sosialmedias' not found in /home/workshare/public_html/app/Http/Controllers/WebsiteController.php on line 53
+[27-Oct-2017 08:42:50 UTC] PHP Fatal error:  Class 'App\companies' not found in /home/workshare/public_html/app/Http/Controllers/WebsiteController.php on line 54
+[27-Oct-2017 08:44:03 UTC] PHP Fatal error:  Class 'App\Http\Controllers\informasicompanies' not found in /home/workshare/public_html/app/Http/Controllers/WebsiteController.php on line 56
+[27-Oct-2017 09:09:51 UTC] PHP Fatal error:  Class 'App\Http\Controllers\categoryevents' not found in /home/workshare/public_html/app/Http/Controllers/WebsiteController.php on line 182

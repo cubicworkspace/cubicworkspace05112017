@@ -1,0 +1,8 @@
+[25-Oct-2017 16:54:18 UTC] PHP Fatal error:  Class 'finfo' not found in /home/workshare/public_html/sisteminformasi/startupbase/vendor/league/flysystem/src/Adapter/Local.php on line 311
+[25-Oct-2017 16:55:49 UTC] PHP Fatal error:  Class 'finfo' not found in /home/workshare/public_html/sisteminformasi/startupbase/vendor/league/flysystem/src/Adapter/Local.php on line 311
+[25-Oct-2017 16:56:05 UTC] PHP Fatal error:  Class 'finfo' not found in /home/workshare/public_html/sisteminformasi/startupbase/vendor/league/flysystem/src/Adapter/Local.php on line 311
+[25-Oct-2017 16:56:22 UTC] PHP Fatal error:  Class 'finfo' not found in /home/workshare/public_html/sisteminformasi/startupbase/vendor/league/flysystem/src/Adapter/Local.php on line 311
+[25-Oct-2017 17:33:56 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/workshare/public_html/sisteminformasi/startupbase/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 444
+[25-Oct-2017 17:34:00 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/workshare/public_html/sisteminformasi/startupbase/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 444
+[25-Oct-2017 17:38:04 UTC] PHP Fatal error:  Class 'finfo' not found in /home/workshare/public_html/sisteminformasi/startupbase/vendor/league/flysystem/src/Adapter/Local.php on line 311
+[25-Oct-2017 17:59:16 UTC] PHP Fatal error:  Class 'finfo' not found in /home/workshare/public_html/sisteminformasi/startupbase/vendor/league/flysystem/src/Adapter/Local.php on line 311
